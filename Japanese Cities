@@ -1,0 +1,3 @@
+select * from City where Countrycode='JPN'
+
+--select cities whch belongs to jap
